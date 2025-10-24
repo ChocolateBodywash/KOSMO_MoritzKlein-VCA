@@ -1,0 +1,25 @@
+Reference,Value,Datasheet,Package,Qty
+"C1,C2",47uF,~,Electrolytic Capacitor,2
+"C3,C4,C5,C6,C7,C8",0.1uF,~,Ceramic Disc Capacitor,6
+"D1,D2",1N5819,http://www.vishay.com/docs/88525/1n5817.pdf,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,2
+E1,Conn_02x05_Pin,~,Pins_2x05_2.54mm_TH_EurorackPower_Shrouded,1
+J1,Signal In 1,~,Jack_6.35mm,1
+J2,Out 1,~,Jack_6.35mm,1
+J3,CV In 1,~,Jack_6.35mm,1
+J4,Signal In 2,~,Jack_6.35mm,1
+J5,Out 2,~,Jack_6.35mm,1
+J6,CV In 2,~,Jack_6.35mm,1
+"J7,J8,J9,J10",Conn_01x06,~,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,4
+"Q1,Q2,Q3,Q4",BC548,https://www.onsemi.com/pub/Collateral/BC550-D.pdf,Package_TO_SOT_THT:TO-92_Inline,4
+"VR1,VR2",B100K,,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,
+"R1,R2",10,~,Metal Film 1/4 Resistor,2
+"R3,R4,R5,R6,R9,R10,R21,R22,RV1,RV2",100K,~,Metal Film 1/4 Resistor,12
+"R7,R8",82K,~,Metal Film 1/4 Resistor,2
+"R11,R12,R19,R20",100,~,Metal Film 1/4 Resistor,4
+"R13,R14,R17,R18",20K m,~,Metal Film 1/4 Resistor,4
+"R15,R16",10K,~,Metal Film 1/4 Resistor,2
+"R23,R24,R25,R26",10K m,~,Metal Film 1/4 Resistor,4
+"R27,R28,R29,R30",100K m,~,Metal Film 1/4 Resistor,4
+"R31,R32",1K,~,Metal Film 1/4 Resistor,2
+"R33,R34",20K,~,Metal Film 1/4 Resistor,2
+"U1,U2",TL072,http://www.ti.com/lit/ds/symlink/tl071.pdf,DIP-8_W7.62mm,2
