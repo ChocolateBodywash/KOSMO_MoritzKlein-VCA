@@ -1,6 +1,6 @@
 ## KOSMO Format MoritzKlein VCA
 
-![](/img/IMG_9807.JPEG)
+![](/img/IMG_9807.jpg)
 
 A KOSMO format of Moritz Klein’s VCA
 https://www.youtube.com/watch?v=yMrCCx6uqcE
