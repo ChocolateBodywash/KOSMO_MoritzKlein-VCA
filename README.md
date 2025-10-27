@@ -1,4 +1,4 @@
-## KOSMO Format MoritzKlein VCA
+## KOSMO Format Moritz Klein VCA
 
 ![](/IMG/IMG_9807.jpg)
 
