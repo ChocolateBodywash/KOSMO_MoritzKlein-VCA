@@ -3,7 +3,9 @@
 ![](/IMG/IMG_9807.jpg)
 
 A KOSMO format of Moritz Klein’s VCA
+
 https://www.youtube.com/watch?v=yMrCCx6uqcE
+
 This was my first dip into PCB design and oh boy, it would have made more sense to start with the simpler ADSR. There were a lot of things I could have done more efficiently and possibly better (adding normalization between VCAs) but it works.
 
 ---
